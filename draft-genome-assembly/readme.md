@@ -3,9 +3,9 @@ Gene models were predicted using the MAKER pipeline with SNAP and Augustus algor
 
 Files:
 
-genome assembly       --- Tmu_FLYE.fasta
+genome assembly\t --- Tmu_FLYE.fasta
 
-annotation file       --- Tmu_FLYE.gtf
+annotation file\t --- Tmu_FLYE.gtf
 
 predicted transcripts --- Tmu_FLYE_transcripts.fasta
 
